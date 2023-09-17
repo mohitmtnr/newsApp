@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+#navbarSupportedContent ul li {
+  min-width: 150px;
+  border-radius: 5px;
+}
+
+#navbarSupportedContent ul li.active-category {
+  background-color: #0b5ed7;
+}
+
+#navbarSupportedContent ul li:hover,
+#navbarSupportedContent ul li:hover Link {
+  background-color: #4c88e2;
+  transition: all 200ms linear;
+}
