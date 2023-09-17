@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ragevision/newsApp/static/css/main.9f649a08.css",
+    "main.js": "/ragevision/newsApp/static/js/main.81e55707.js",
+    "static/js/787.66a4299e.chunk.js": "/ragevision/newsApp/static/js/787.66a4299e.chunk.js",
+    "index.html": "/ragevision/newsApp/index.html",
+    "main.9f649a08.css.map": "/ragevision/newsApp/static/css/main.9f649a08.css.map",
+    "main.81e55707.js.map": "/ragevision/newsApp/static/js/main.81e55707.js.map",
+    "787.66a4299e.chunk.js.map": "/ragevision/newsApp/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f649a08.css",
+    "static/js/main.81e55707.js"
+  ]
+}
